@@ -11,7 +11,7 @@ import java.util.ArrayList;
 /**
  * Class for FastFoodKitchen 
  * 
- * @author brianramirez
+ * @author brian
  * created September 8, 2021
  */
 public class FastFoodKitchen {
