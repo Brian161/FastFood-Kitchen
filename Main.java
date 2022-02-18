@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author brianramirez
+ * @author brian
  * created September 8, 2021
  */
 public class Main {
