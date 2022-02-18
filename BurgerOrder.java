@@ -7,7 +7,7 @@ package fastfoodkitchen;
 
 /**
  * Class that contains items to order on a burger
- * @author brianramirez
+ * @author brian
  * created September 8, 2021
  */ 
 public class BurgerOrder {
